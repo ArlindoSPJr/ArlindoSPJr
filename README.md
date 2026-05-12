@@ -9,8 +9,6 @@
   Hi 👋, I'm Arlindo! A passionate Software Engineer student from Brazil.
 
   - 🌱 I’m currently studying Software Engineer at Puc Minas 
-
-  - 🔭 I am looking for my first job opportunity.
 </p>
 <!-- Links -->
 
